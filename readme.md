@@ -122,5 +122,12 @@ function myFunction() {
 
 ## A global variable has Global Scope: All scripts and functions on a web page can access it. 
 
+___
 
+## What is Hoisting in JavaScript?
+### Hoisting is a mechanism where variables and function declarations are moved to the top of their scope before it code execution, Hoisting  in JavaScipt is a behavior in which a function or a varible can be used before declaration 
+
+#### ***(Hoisting - это механизм, при котором переменные и объявления функций перемещаются в верхнюю часть их области видимости до выполнения кода. Hoisting в JavaScipt - это поведение, при котором функция или переменная может быть использована до объявления. )***
+
+___
 
